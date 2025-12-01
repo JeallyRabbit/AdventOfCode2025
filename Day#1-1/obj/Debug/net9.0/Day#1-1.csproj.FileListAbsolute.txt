@@ -1,0 +1,15 @@
+/home/jeallyrabbit/Desktop/AdventOfCode2025/AdventOfCode2025/Day#1-1/bin/Debug/net9.0/Day#1-1
+/home/jeallyrabbit/Desktop/AdventOfCode2025/AdventOfCode2025/Day#1-1/bin/Debug/net9.0/Day#1-1.deps.json
+/home/jeallyrabbit/Desktop/AdventOfCode2025/AdventOfCode2025/Day#1-1/bin/Debug/net9.0/Day#1-1.runtimeconfig.json
+/home/jeallyrabbit/Desktop/AdventOfCode2025/AdventOfCode2025/Day#1-1/bin/Debug/net9.0/Day#1-1.dll
+/home/jeallyrabbit/Desktop/AdventOfCode2025/AdventOfCode2025/Day#1-1/bin/Debug/net9.0/Day#1-1.pdb
+/home/jeallyrabbit/Desktop/AdventOfCode2025/AdventOfCode2025/Day#1-1/obj/Debug/net9.0/Day#1-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeallyrabbit/Desktop/AdventOfCode2025/AdventOfCode2025/Day#1-1/obj/Debug/net9.0/Day#1-1.AssemblyInfoInputs.cache
+/home/jeallyrabbit/Desktop/AdventOfCode2025/AdventOfCode2025/Day#1-1/obj/Debug/net9.0/Day#1-1.AssemblyInfo.cs
+/home/jeallyrabbit/Desktop/AdventOfCode2025/AdventOfCode2025/Day#1-1/obj/Debug/net9.0/Day#1-1.csproj.CoreCompileInputs.cache
+/home/jeallyrabbit/Desktop/AdventOfCode2025/AdventOfCode2025/Day#1-1/obj/Debug/net9.0/Day#1-1.sourcelink.json
+/home/jeallyrabbit/Desktop/AdventOfCode2025/AdventOfCode2025/Day#1-1/obj/Debug/net9.0/Day#1-1.dll
+/home/jeallyrabbit/Desktop/AdventOfCode2025/AdventOfCode2025/Day#1-1/obj/Debug/net9.0/refint/Day#1-1.dll
+/home/jeallyrabbit/Desktop/AdventOfCode2025/AdventOfCode2025/Day#1-1/obj/Debug/net9.0/Day#1-1.pdb
+/home/jeallyrabbit/Desktop/AdventOfCode2025/AdventOfCode2025/Day#1-1/obj/Debug/net9.0/Day#1-1.genruntimeconfig.cache
+/home/jeallyrabbit/Desktop/AdventOfCode2025/AdventOfCode2025/Day#1-1/obj/Debug/net9.0/ref/Day#1-1.dll
