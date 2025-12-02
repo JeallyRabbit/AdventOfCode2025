@@ -1,0 +1,15 @@
+C:\Users\aleks.karczewski\Documents\AdventOfCode2025\Day#2\obj\Debug\net9.0\Day#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks.karczewski\Documents\AdventOfCode2025\Day#2\obj\Debug\net9.0\Day#2.AssemblyInfoInputs.cache
+C:\Users\aleks.karczewski\Documents\AdventOfCode2025\Day#2\obj\Debug\net9.0\Day#2.AssemblyInfo.cs
+C:\Users\aleks.karczewski\Documents\AdventOfCode2025\Day#2\obj\Debug\net9.0\Day#2.csproj.CoreCompileInputs.cache
+C:\Users\aleks.karczewski\Documents\AdventOfCode2025\Day#2\obj\Debug\net9.0\Day#2.sourcelink.json
+C:\Users\aleks.karczewski\Documents\AdventOfCode2025\Day#2\bin\Debug\net9.0\Day#2.exe
+C:\Users\aleks.karczewski\Documents\AdventOfCode2025\Day#2\bin\Debug\net9.0\Day#2.deps.json
+C:\Users\aleks.karczewski\Documents\AdventOfCode2025\Day#2\bin\Debug\net9.0\Day#2.runtimeconfig.json
+C:\Users\aleks.karczewski\Documents\AdventOfCode2025\Day#2\bin\Debug\net9.0\Day#2.dll
+C:\Users\aleks.karczewski\Documents\AdventOfCode2025\Day#2\bin\Debug\net9.0\Day#2.pdb
+C:\Users\aleks.karczewski\Documents\AdventOfCode2025\Day#2\obj\Debug\net9.0\Day#2.dll
+C:\Users\aleks.karczewski\Documents\AdventOfCode2025\Day#2\obj\Debug\net9.0\refint\Day#2.dll
+C:\Users\aleks.karczewski\Documents\AdventOfCode2025\Day#2\obj\Debug\net9.0\Day#2.pdb
+C:\Users\aleks.karczewski\Documents\AdventOfCode2025\Day#2\obj\Debug\net9.0\Day#2.genruntimeconfig.cache
+C:\Users\aleks.karczewski\Documents\AdventOfCode2025\Day#2\obj\Debug\net9.0\ref\Day#2.dll

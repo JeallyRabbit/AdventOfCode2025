@@ -8,25 +8,31 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/home/jeallyrabbit/.nuget/packages/": {}
+    "C:\\Users\\aleks.karczewski\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jeallyrabbit/Desktop/AdventOfCode2025/AdventOfCode2025/Day#1-1/Day#1-1.csproj",
-      "projectName": "Day#1-1",
-      "projectPath": "/home/jeallyrabbit/Desktop/AdventOfCode2025/AdventOfCode2025/Day#1-1/Day#1-1.csproj",
-      "packagesPath": "/home/jeallyrabbit/.nuget/packages/",
-      "outputPath": "/home/jeallyrabbit/Desktop/AdventOfCode2025/AdventOfCode2025/Day#1-1/obj/",
+      "projectUniqueName": "C:\\Users\\aleks.karczewski\\Documents\\AdventOfCode2025\\Day#2\\Day#2.csproj",
+      "projectName": "Day#2",
+      "projectPath": "C:\\Users\\aleks.karczewski\\Documents\\AdventOfCode2025\\Day#2\\Day#2.csproj",
+      "packagesPath": "C:\\Users\\aleks.karczewski\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aleks.karczewski\\Documents\\AdventOfCode2025\\Day#2\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/jeallyrabbit/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\aleks.karczewski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "/usr/lib/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,7 +51,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -66,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.111/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
